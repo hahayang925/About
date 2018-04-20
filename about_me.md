@@ -69,7 +69,9 @@
 * [台北市最新災情查詢](https://hahayang925.github.io/typhoon/)
   -- open data api + RWD + google map api + ajax
 * [Monster Game](https://hahayang925.github.io/monstergame/)
-  --  Vue.js
+  -- Vue.js
+* [My Quotes](https://hahayang925.github.io/myQuote/)
+  -- Vue-cli
  
 ## 自我介紹
 

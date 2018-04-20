@@ -62,13 +62,15 @@
   -- RWD + SaSS
 * [Kaohsiung travel information](https://hahayang925.github.io/travel)
   -- open data api + ajax
-* [Public parking areas in Kaohsiung]( https://hahayang925.github.io/parking/)
+* [Public parking areas in Kaohsiung](https://hahayang925.github.io/parking/)
   -- google map api
 * [Personal website](https://hahayang925.github.io/haha/)
 * [Typhoon damage information of Taipei](https://hahayang925.github.io/typhoon/)
   -- open data api + RWD + google map api + ajax
 * [Monster Game](https://hahayang925.github.io/monstergame/)
   --  Vue.js pratice
+* [My Quotes](https://hahayang925.github.io/myQuote/)
+  -- Build with Vue-cli
   
 ## About me
 
