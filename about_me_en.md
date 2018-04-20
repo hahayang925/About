@@ -12,7 +12,7 @@
 * Process routine financial transactions for clients.
 * Able to communicate with various kinds of customers and meet their demands.
 #### Addcn, Front-End Engineer - 2017.09 ~ 2018.01
-* Use gulp as task manager to transpile sass and javascript.
+* Use Gulp as task manager to transpile sass and javascript.
 * Collaborate with web designer and backend developers to create new backstage page.
 * Developed startup RWD page with UI designer. [Starup page](https://www.518.com.tw/startup-jackercleaning.html)
 
