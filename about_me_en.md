@@ -4,6 +4,7 @@
 * Location : Kaohsiung, Taipei
 * E-Mail : hahayang925@gmail.com
 * Mobile : +886937666570
+* Blog : https://hahayang925.github.io/
 
 ## Working Experience
 
