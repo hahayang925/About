@@ -8,14 +8,33 @@
 
 ## Working Experience
 
-#### BANK OF TAIWAN, Bank teller - 2014.10 ~ 2017.01
-* Worked as a bank teller at Donhu branch.
-* Process routine financial transactions for clients.
-* Able to communicate with various kinds of customers and meet their demands.
+#### STARLUX Airlines Co., Ltd., Front-End Engineer, 2018.09 ~ current
+* Construct Official Website from 0.
+* Cooperate with external front-end engineers, and our company's front-end engineers.
+* Communicate between users, PM, and Vendor.
+* i18n website development.
+* Use Nuxt.
+* Cascade Api with back-end developers. Modularization different services.
+* Handle payment flow with back-end developers.
+* Use gitlab to develop and version control.
+
+#### Perkd, Back-End Engineer - 2018.06 ~ 2018.07
+* Node.js
+* Loopback
+* Use data collected everyday in database to generate daily report and email to user.
+* Adjust daily report email template.
+* Fix assigned issues.
+
 #### Addcn, Front-End Engineer - 2017.09 ~ 2018.01
 * Use Gulp as task manager to transpile sass and javascript.
 * Collaborate with web designer and backend developers to create new backstage page.
 * Developed startup RWD page with UI designer. [Starup page](https://www.518.com.tw/startup-jackercleaning.html)
+
+#### BANK OF TAIWAN, Bank teller - 2014.10 ~ 2017.01
+* Worked as a bank teller at Donhu branch.
+* Process routine financial transactions for clients.
+* Able to communicate with various kinds of customers and meet their demands.
+
 
 ## Skills
 
@@ -26,23 +45,23 @@
 * Bootstrap
 * CSS flex layout
 * Responsive Web Design
+* WCAG
 
 
 ### Javascript/Framework
 
 * Vanilla Javascript
 * jQuery
-* Use third party API (Google Map、OPEN DATA)
-* API integration by AJAX
-* ES6 syntax
+* Third party API (Google Map、OPEN DATA)
+* ES6
 * Node.js + express + ejs
-* Vue.js (working on)
+* Vue.js
+* React
 
 ### Git/GitHub
 
-* Build static GitHub Pages
 * Version control
-* Able to pull, create new branch, and merge branches, then push to remote repository.
+* Understand git command
 
 ### Others
 
@@ -53,19 +72,12 @@
 ### Language
 
 * Chinese: Native
-* English: Fluent
+* English: Fluent(TOEIC 905)
 
 ## Works
 
-* [BMI Calculator](https://hahayang925.github.io/BMI/)
-  -- html5 localstorage
-* [HEX Restaurant](https://hahayang925.github.io/project-burger/)
-  -- RWD + SaSS
-* [Kaohsiung travel information](https://hahayang925.github.io/travel)
-  -- open data api + ajax
-* [Public parking areas in Kaohsiung](https://hahayang925.github.io/parking/)
-  -- google map api
-* [Personal website](https://hahayang925.github.io/haha/)
+* [Personal resume](https://hahayang925.github.io/resume/)
+* [518 startup](https://www.518.com.tw/startup-jackercleaning.html)
 * [Typhoon damage information of Taipei](https://hahayang925.github.io/typhoon/)
   -- open data api + RWD + google map api + ajax
 * [Monster Game](https://hahayang925.github.io/monstergame/)
@@ -75,7 +87,7 @@
   
 ## About me
 
-I worked as a bank teller for more than two years, and I found no achievement and excitement in my job. I encounter Front End Developement accidentally and it was so challenging and interesting to me. Therefore, I transfer from a bank teller to a Front End Developer.   
+I worked as a bank teller for more than two years, and I found no achievement and excitement in my job. I encounter Front End Developement accidentally and it was so challenging and interesting to me. Therefore, I transfer from a bank teller to a Front End Developer.
 
 Personal characteristic:
 * I love to study new techniques, and keep improving myself.
