@@ -11,7 +11,7 @@
 #### STARLUX Airlines Co., Ltd., Front-End Engineer, 2018.09 ~ current
 * Construct Official Website from 0.
 * Cooperate with external front-end engineers, and our company's front-end engineers.
-* Communicate between users, PM, and Vendor.
+* Communicate between users, PM, and designers.
 * i18n website development.
 * Use Nuxt.
 * Cascade Api with back-end developers. Modularization different services.

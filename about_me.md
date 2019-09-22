@@ -48,11 +48,12 @@
 
 ### Javascript/Framework
 
-* 介接第三方 API (Google Map、OPEN DATA)
-* ES6 語法
+* Vanilla Javascript
+* jQuery
+* Third party API (Google Map、OPEN DATA)
+* ES6
 * Vue.js
-* Nuxt
-* React (basic)
+* React
 * Node.js + express + ejs
 
 ### Git/GitHub
