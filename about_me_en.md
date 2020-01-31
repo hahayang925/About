@@ -8,7 +8,7 @@
 
 ## Working Experience
 
-#### STARLUX Airlines Co., Ltd., Front-End Engineer, 2018.09 ~ current
+#### STARLUX Airlines Co., Ltd., Front-End Engineer, 2018.09 ~ 2019.12
 * Construct Official Website from 0.
 * Cooperate with external front-end engineers, and our company's front-end engineers.
 * Communicate between users, PM, and designers.
