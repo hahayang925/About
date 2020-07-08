@@ -8,6 +8,16 @@
 
 ## Working Experience
 
+### WISTRON CORPORATION, ENGINEER   2020.03 - current
+* System development for company engineers to manage bom list.
+* Use React, hooks, context API.
+* Use antd, styled-component.
+* e2e testing.
+
+### SMARTBEE INTELLIGENCE,  Front End Developer   2020.01 - 2020.03
+* Use Vue with quasar UI framework.
+* Components development.
+
 #### STARLUX Airlines Co., Ltd., Front-End Engineer, 2018.09 ~ 2019.12
 * Construct Official Website from 0.
 * Cooperate with external front-end engineers, and our company's front-end engineers.
@@ -28,7 +38,7 @@
 #### Addcn, Front-End Engineer - 2017.09 ~ 2018.01
 * Use Gulp as task manager to transpile sass and javascript.
 * Collaborate with web designer and backend developers to create new backstage page.
-* Developed startup RWD page with UI designer. [Starup page](https://www.518.com.tw/startup-jackercleaning.html)
+* Developed startup RWD page with UI designer. [Startup page](https://www.518.com.tw/startup-jackercleaning.html)
 
 #### BANK OF TAIWAN, Bank teller - 2014.10 ~ 2017.01
 * Worked as a bank teller at Donhu branch.
