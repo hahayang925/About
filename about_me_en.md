@@ -8,13 +8,13 @@
 
 ## Working Experience
 
-### WISTRON CORPORATION, ENGINEER   2020.03 - current
+#### WISTRON CORPORATION, ENGINEER   2020.03 - current
 * System development for company engineers to manage bom list.
 * Use React, hooks, context API.
 * Use antd, styled-component.
 * e2e testing.
 
-### SMARTBEE INTELLIGENCE,  Front End Developer   2020.01 - 2020.03
+#### SMARTBEE INTELLIGENCE,  Front End Developer   2020.01 - 2020.03
 * Use Vue with quasar UI framework.
 * Components development.
 
